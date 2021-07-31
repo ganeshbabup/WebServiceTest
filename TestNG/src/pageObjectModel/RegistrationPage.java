@@ -113,5 +113,9 @@ public class RegistrationPage {
 	public void setSubmit() {
 		Submit.click();
 	}
+	
+	public void setClick() {
+		Submit.click();
+	}
 
 }
