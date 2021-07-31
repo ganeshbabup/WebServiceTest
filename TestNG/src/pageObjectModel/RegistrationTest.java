@@ -32,6 +32,8 @@ public class RegistrationTest {
 		RGpage.setConfrm("rajis123");
 		RGpage.setSubmit();
 		System.out.println("updated successfully");
+		System.out.println("Git commit updated");
+		System.out.println("Git ChildBranch updated");
 		//validation
 		
 		System.out.println(driver.getCurrentUrl());
